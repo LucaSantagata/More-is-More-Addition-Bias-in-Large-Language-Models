@@ -19,14 +19,6 @@ The repository includes raw data from the following experiments:
 
 Each dataset is stored in CSV format and includes the responses from different LLMs for each task.
 
-## File Structure
-
-- `/palindrome_data/`: CSV files containing responses for the palindrome task
-- `/lego_towers_data/`: CSV files containing responses for the Lego towers task
-- `/elementary_operation_data/`: CSV files containing responses for the elementary operation task
-- `/anomalous_sandwich_data/`: CSV files containing responses for the anomalous sandwich task
-- `/soup_ingredients_data/`: CSV files containing responses for the increasing ingredients in soup task
-- `/summarization_data/`: CSV files containing responses for the summarization task
 
 ## Usage
 
