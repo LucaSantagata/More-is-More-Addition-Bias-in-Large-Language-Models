@@ -1,6 +1,6 @@
 # More is More: Addition Bias in Large Language Models
 
-This repository contains the data used in the paper "[More is More: Addition Bias in Large Language Models](https://arxiv.org/abs/2409.02569)" by [Luca Santagata](https://www.linkedin.com/in/luca-santagata-b06501147/) and [Cristiano De Nobili]([https://denocris.com/](https://www.linkedin.com/in/cristiano-de-nobili/)).
+This repository contains the data used in the paper "[More is More: Addition Bias in Large Language Models](https://arxiv.org/abs/2409.02569)" by [Luca Santagata](https://www.linkedin.com/in/luca-santagata-b06501147/) and [Cristiano De Nobili](https://www.linkedin.com/in/cristiano-de-nobili/).
 
 ## Overview
 
