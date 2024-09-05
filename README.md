@@ -28,6 +28,18 @@ Researchers interested in replicating our results or conducting further analysis
 
 If you use our findings or methodology in your research, please cite our paper:
 
+```
+@misc{santagata2024moreadditionbiaslarge,
+  title = {More is More: Addition Bias in Large Language Models},
+  author = {Luca Santagata and Cristiano De Nobili},
+  year = {2024},
+  eprint = {2409.02569},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CL},
+  url = {https://arxiv.org/abs/2409.02569},
+}
+```
+
 ## Contact
 
 For any questions, please contact:
